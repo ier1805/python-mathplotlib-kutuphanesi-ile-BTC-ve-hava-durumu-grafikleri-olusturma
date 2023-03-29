@@ -1,3 +1,3 @@
 # Python-Matplotlib
-PROJE ÖDEVİ 
+ODEV
 HAVA DURUMU VE BTC GRAFIGI
